@@ -1,0 +1,3 @@
+A collection of scripts that I used/modified to work with Blender 3.0+ for use with Importing
+
+... 
