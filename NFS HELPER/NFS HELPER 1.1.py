@@ -458,7 +458,7 @@ class PANEL_PT_opacity_panel(bpy.types.Panel):
     bl_space_type = 'VIEW_3D'
     bl_label = "NFS Helper"
     bl_region_type = "UI"
-    bl_category = "Item"
+    bl_category = "NFS Helper"
 
     #if bpy.context.scene.render.engine == 'BLENDER_EEVEE':
 
