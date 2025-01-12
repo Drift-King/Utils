@@ -2,7 +2,7 @@
 
 [FBX](/FBX/io_batch_export_FBX_collection.py) FBX sidebar tool to export all collections as FBX with unit scaling.
 
-[NFS](/NFS%20HELPER/NFs%20HELPER1.1.py) Addon for Blender 3.4 to 4.1 for easier texture alpha tailored for Need for Speed Map Modding (EEVEE)
+[NFS](/NFS%20HELPER/NFS%20HELPER1.1.py) Addon for Blender 3.4 to 4.1 for easier texture alpha tailored for Need for Speed Map Modding (EEVEE)
 
-[NFS](/NFS%20HELPER/NFs%20HELPER1.2.py) Addon for Blender 4.3.2 for Blender Method Assignment tailored for Need for Speed Map Modding (EEVEE)
+[NFS](/NFS%20HELPER/NFS%20HELPER1.2.py) Addon for Blender 4.3.2 for Blender Method Assignment tailored for Need for Speed Map Modding (EEVEE)
 ... 
